@@ -1,0 +1,3 @@
+# Introdução ao Git
+
+**Git** é um serviço de controle de versões. Muito utilizado por programadores e desenvolvedores, a ferramenta Git permite que você mantenha um histórico de modificações controlado de seus códigos e arquivos, seja em projetos individuais quanto em trabalhos onde muitas pessoas desenvolvem simultaneamente uma mesma aplicação, possibilitando um controle maior de alterações que possam ter sido implementadas simultaneamente e resoluções de conflitos. 
